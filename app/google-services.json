@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "1006414752858",
+    "firebase_url": "https://gamificationofscrum.firebaseio.com",
+    "project_id": "gamificationofscrum",
+    "storage_bucket": "gamificationofscrum.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1006414752858:android:8bd2ac8932132758ff7c63",
+        "android_client_info": {
+          "package_name": "com.example.gamificationofscrum"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1006414752858-7cspt1dgqgcqbgvs0e4nt70b8ufpbgj6.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.gamificationofscrum",
+            "certificate_hash": "06b7630827b4815176acdffbf43fb58cb938571a"
+          }
+        },
+        {
+          "client_id": "1006414752858-976h3k6jgl4qro0lq02bb7737kv69gbv.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBPTahhd0_H2Ar3fUMgVTvHkB_5xTGBTic"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1006414752858-976h3k6jgl4qro0lq02bb7737kv69gbv.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
